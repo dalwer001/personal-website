@@ -20,6 +20,7 @@ h3{
     margin-top: 20px;
 }
 
+
 .name-color{
     color: orange;
 }
@@ -34,7 +35,7 @@ p{
 
 section{
     height: 700px;
-    padding-bottom: 325px;
+    padding-bottom: 315px;
 }
 
 #about{
@@ -99,7 +100,7 @@ section{
 }
 
 #all-project h1{
-    font-size:45px;
+    font-size:40px;
 }
 
 .box-size img{
@@ -110,7 +111,7 @@ section{
     margin: 1% 2.1% 1% 2.1%;
     padding: 1% 2% 1% 2%;
     float: left;
-    border-radius: 5px;
+    border-radius: 8px;
     height: 90%;
     background-color: white;
     box-shadow: 5px 5px 40px rgb(165, 217, 241);
@@ -206,11 +207,11 @@ footer img{
     margin: 1% 2.1% 1% 2.1%;
     padding: 1% 2% 1% 2%;
     float: left;
-    border-radius: 5px;
+    border-radius: 15px;
     height: 50%;
-    background-color: #f5ddb69f;
-    box-shadow: 5px 5px 40px #c5b5f1b7;
-    margin-bottom: 2%;
+    background-color: #2fc8a236;
+    box-shadow: 5px 5px 40px #f19aa9be;
+    margin-bottom: 3%;
 }
 
 #my-services{
@@ -231,7 +232,7 @@ footer img{
 .service h3{
     text-align: center;
     font: 30px;
-    color: #0aa72e;
+    color: #1322ac;
 }
 
 .service p{
@@ -241,9 +242,9 @@ footer img{
     text-decoration: none;
     padding: 20px;
     border-radius: 10px;
-    color: rgb(251, 116, 26);
+    color: white;
     font-size: 20px;
     padding: 10px;
-    background:linear-gradient(45deg, rgb(61, 170, 76) 0%,rgba(142,185,42,1) 50%,rgba(114,170,0,1) 51%,rgb(240, 209, 75) 100%); 
+    background:linear-gradient(135deg, rgba(254,187,187,1) 0%,rgba(254,144,144,1) 45%,rgba(255,92,92,1) 100%);
    
 }

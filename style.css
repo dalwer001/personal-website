@@ -200,7 +200,9 @@ footer img{
     width: 25px;
     margin: 0% 2%;
 }
-
+.foot p{
+    text-align: center;
+}
 
 .service{
     width: 25%;
